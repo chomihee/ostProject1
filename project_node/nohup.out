@@ -1,0 +1,324 @@
+
+> project-node@0.0.0 start /home/ubuntu/team_project/project_node
+> nodemon app.js
+
+[33m[nodemon] 2.0.16[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event at:
+    at lazyFs.read (internal/fs/streams.js:165:12)
+    at FSReqWrap.wrapper [as oncomplete] (fs.js:467:17)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! project-node@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the project-node@0.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-06-06T13_28_52_212Z-debug.log
+
+> project-node@0.0.0 start /home/ubuntu/team_project/project_node
+> nodemon app.js
+
+[33m[nodemon] 2.0.16[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event at:
+    at lazyFs.read (internal/fs/streams.js:165:12)
+    at FSReqWrap.wrapper [as oncomplete] (fs.js:467:17)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! project-node@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the project-node@0.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-06-06T13_29_50_120Z-debug.log
+
+> project-node@0.0.0 start /home/ubuntu/team_project/project_node
+> nodemon app.js
+
+[33m[nodemon] 2.0.16[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event at:
+    at lazyFs.read (internal/fs/streams.js:165:12)
+    at FSReqWrap.wrapper [as oncomplete] (fs.js:467:17)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! project-node@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the project-node@0.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-06-06T13_32_18_308Z-debug.log
+
+> project-node@0.0.0 start /home/ubuntu/team_project/project_node
+> nodemon app.js
+
+[33m[nodemon] 2.0.16[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event at:
+    at lazyFs.read (internal/fs/streams.js:165:12)
+    at FSReqWrap.wrapper [as oncomplete] (fs.js:467:17)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! project-node@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the project-node@0.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-06-06T13_36_27_807Z-debug.log
+Express server listening on port8080
+[0mGET / [36m304 [0m11.848 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.629 ms - -[0m
+[0mGET / [32m200 [0m1.491 ms - 207[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.657 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m1.461 ms - 1083[0m
+[0mGET / [32m200 [0m0.753 ms - 207[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.631 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m0.899 ms - 1083[0m
+[0mGET / [36m304 [0m0.757 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.402 ms - -[0m
+[0mGET / [32m200 [0m0.768 ms - 207[0m
+[0mGET / [32m200 [0m0.704 ms - 207[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.448 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m0.801 ms - 1083[0m
+[0mGET / [36m304 [0m0.808 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.335 ms - -[0m
+[0mGET /hunmj_serverApi/test.php [33m404 [0m0.853 ms - 1083[0m
+[0mGET /.env [33m404 [0m0.754 ms - 1083[0m
+[0mPOST / [33m404 [0m850.525 ms - 1083[0m
+[0mGET / [32m200 [0m0.638 ms - 207[0m
+[0mGET /.env [33m404 [0m0.686 ms - 1083[0m
+[0mGET / [31m500 [0m2.587 ms - 1419[0m
+Error: Failed to lookup view "error" in views directory "/home/ubuntu/team_project/project_node/views"
+    at Function.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/response.js:1008:7)
+    at /home/ubuntu/team_project/project_node/app.js:40:7
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+    at /home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:275:10)
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+[0mGET / [31m500 [0m0.927 ms - 1419[0m
+Error: Failed to lookup view "error" in views directory "/home/ubuntu/team_project/project_node/views"
+    at Function.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/response.js:1008:7)
+    at /home/ubuntu/team_project/project_node/app.js:40:7
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+    at /home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:275:10)
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE: address already in use :::8080
+    at Server.setupListenHandle [as _listen2] (net.js:1280:14)
+    at listenInCluster (net.js:1328:12)
+    at Server.listen (net.js:1415:7)
+    at Function.listen (/home/ubuntu/ostProject1/project_node/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/ubuntu/ostProject1/project_node/app.js:45:18)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+Emitted 'error' event at:
+    at emitErrorNT (net.js:1307:8)
+    at process._tickCallback (internal/process/next_tick.js:63:19)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:834:11)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:623:3)
+[0mGET / [31m500 [0m0.800 ms - 1419[0m
+Error: Failed to lookup view "error" in views directory "/home/ubuntu/team_project/project_node/views"
+    at Function.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/response.js:1008:7)
+    at /home/ubuntu/team_project/project_node/app.js:40:7
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+    at /home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:275:10)
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+[0mGET / [31m500 [0m1.014 ms - 1419[0m
+Error: Failed to lookup view "error" in views directory "/home/ubuntu/team_project/project_node/views"
+    at Function.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/response.js:1008:7)
+    at /home/ubuntu/team_project/project_node/app.js:40:7
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+    at /home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:275:10)
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+[0mGET / [31m500 [0m0.801 ms - 1419[0m
+Error: Failed to lookup view "error" in views directory "/home/ubuntu/team_project/project_node/views"
+    at Function.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/response.js:1008:7)
+    at /home/ubuntu/team_project/project_node/app.js:40:7
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+    at /home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:275:10)
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+[0mGET / [31m500 [0m1.045 ms - 1419[0m
+Error: Failed to lookup view "error" in views directory "/home/ubuntu/team_project/project_node/views"
+    at Function.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/application.js:580:17)
+    at ServerResponse.render (/home/ubuntu/team_project/project_node/node_modules/express/lib/response.js:1008:7)
+    at /home/ubuntu/team_project/project_node/app.js:40:7
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:71:5)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+    at /home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:284:7
+    at Function.process_params (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:335:12)
+    at next (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:275:10)
+    at Layer.handle_error (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/layer.js:67:12)
+    at trim_prefix (/home/ubuntu/team_project/project_node/node_modules/express/lib/router/index.js:315:13)
+
+> project-node@0.0.0 start /home/ubuntu/ostProject1/project_node
+> nodemon app.js
+
+[33m[nodemon] 2.0.16[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event at:
+    at lazyFs.read (internal/fs/streams.js:165:12)
+    at FSReqWrap.wrapper [as oncomplete] (fs.js:467:17)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! project-node@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the project-node@0.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-06-06T15_37_07_349Z-debug.log
+
+Usage: npm <command>
+
+where <command> is one of:
+    access, adduser, audit, bin, bugs, c, cache, ci, cit,
+    clean-install, clean-install-test, completion, config,
+    create, ddp, dedupe, deprecate, dist-tag, docs, doctor,
+    edit, explore, fund, get, help, help-search, hook, i, init,
+    install, install-ci-test, install-test, it, link, list, ln,
+    login, logout, ls, org, outdated, owner, pack, ping, prefix,
+    profile, prune, publish, rb, rebuild, repo, restart, root,
+    run, run-script, s, se, search, set, shrinkwrap, star,
+    stars, start, stop, t, team, test, token, tst, un,
+    uninstall, unpublish, unstar, up, update, v, version, view,
+    whoami
+
+npm <command> -h  quick help on <command>
+npm -l            display full usage info
+npm help <term>   search for help on <term>
+npm help npm      involved overview
+
+Specify configs in the ini-formatted file:
+    /root/.npmrc
+or on the command line via: npm <command> --key value
+Config info can be viewed via: npm help config
+
+npm@6.14.4 /usr/share/npm
+
+
+> project-node@0.0.0 start /home/ubuntu/ostProject1/project_node
+> nodemon app.js
+
+[33m[nodemon] 2.0.16[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+events.js:174
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event at:
+    at lazyFs.read (internal/fs/streams.js:165:12)
+    at FSReqWrap.wrapper [as oncomplete] (fs.js:467:17)
+npm ERR! code ELIFECYCLE
+npm ERR! errno 1
+npm ERR! project-node@0.0.0 start: `nodemon app.js`
+npm ERR! Exit status 1
+npm ERR! 
+npm ERR! Failed at the project-node@0.0.0 start script.
+npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /root/.npm/_logs/2022-06-06T15_38_11_812Z-debug.log
+Express server listening on port8080
+[0mGET / [36m304 [0m12.448 ms - -[0m
+[0mGET /stylesheets/style.css [36m304 [0m1.604 ms - -[0m
+[0mGET / [32m200 [0m1.475 ms - 207[0m
+[0mGET /stylesheets/style.css [32m200 [0m2.767 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m1.622 ms - 1073[0m
+[0mGET / [32m200 [0m1.188 ms - 207[0m
+[0mGET / [32m200 [0m0.574 ms - 207[0m
+[0mGET / [32m200 [0m0.731 ms - 207[0m
+[0mGET / [32m200 [0m0.760 ms - 207[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.750 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m1.086 ms - 1073[0m
+[0mGET / [32m200 [0m0.726 ms - 207[0m
+[0mGET /stylesheets/style.css [32m200 [0m0.538 ms - 111[0m
+[0mGET /favicon.ico [33m404 [0m0.858 ms - 1073[0m
+[0mGET / [32m200 [0m0.709 ms - 207[0m
+[0mGET /.env [33m404 [0m0.812 ms - 1073[0m
+[0mPOST / [33m404 [0m37.536 ms - 1073[0m
+[0mGET / [32m200 [0m0.659 ms - 207[0m
