@@ -5,13 +5,30 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
-        <div class="notice_rolling">
-            <img src="" alt="">
-            귀신의 사랑 &lt;널 사랑하는 죽은 형&gt;
-        </div>
-        <link rel="stylesheet" href="./style.css">
+        <link rel="stylesheet" href="./sideStyle.css">
     </head>
     <body>
+        <div class="newBest_tempbox0">
+            <div class="newBestChall">
+                <h3>새로운 베스트 도전만화</h3>
+                <div class="newBestImage">
+                    <img src="newBestChallenge" alt="newBestChallenge">
+                </div>
+                <dt>
+                    <a onclick="nclk_v2(event,'new.title','794959')" href="/bestChallenge/list?titleId=794959" class="challenge_title">
+                        정떨어지는로맨스
+                    </a>
+                    <span>
+                        <a onclick="nclk_v2(event,'new.author'); return artistAction.viewArtist(794959, this);" href="#" class="challenge_id">
+                            rldn****
+                        </a>
+                    </span>
+                </dt>
+                <dd class="ellipsis_content" style="height: 54px;">
+                    <a onclick="nclk_v2(event,'new.text','794959')" href="/bestChallenge/list?titleId=794959">세상에 갑작스럽게 퍼진 바이러스 NE-17. 이 바이러스에 감염된 사람들은 점차 감정을 잃어버린다. 한편 한 번도 연애를 해보지 못 . . .</a>
+                </dd>
+            </div>
+        </div>
         <div class="asideButton upload">
             <button class="Nbtn_uproad" ">웹툰 올리기</button>
             <!-- <a href="" class="Nbtn_upload">웹툰 올리기</a> -->
@@ -164,7 +181,7 @@
                                         title="순위상승"
                                         alt="순위상승"
                                         width="7"
-                                        height="10">1
+                                        height="10">   1
 
                                 </span>
                             </li>
@@ -173,7 +190,9 @@
                     </div>
                     <!-- 실시간 인기웹툰-->
                     <h4 class="asideBoxTitle">
-                        <img src="#" title="실시간 인기웹툰" alt="실시간 인기웹툰" width="78" height="11">
+                        <img src="#" title="10대 실시간 인기웹툰" alt="실시간 인기웹툰" width="78" height="11">
+                        <button>＞</button>
+                        <button>＜</button>
                     </h4>
                     <div class="tmpbox2">
                         <ul class="asideBoxTab">
@@ -191,37 +210,39 @@
                         </ul>
                     </div>
                     <div class="tmpbox4">
+                        
                         <ol>
-                            <li> 더 복서 - 0</li>
-                            <li> 현실퀘스트 - 0</li>
-                            <li> 이두나! - 0</li>
-                            <li> 정글쥬스 - 0</li>
-                            <li> 나 혼자 네크로맨서 - 0</li>
+                            <li> 더 복서 정지훈 - 0</li>
+                            <li> 현실퀘스트 이주운 / 태성 - 0</li>
+                            <li> 이두나! 민송아 - 0</li>
+                            <li> 정글쥬스 형은 / 쥬더 - 0</li>
+                            <li> 2022 스크롤금지 웹툰 작가- 0</li>
                         </ol>
                     </div>
                     <div class="tmpbox5">
-                        <div class="tmpbox2">
-                            <ul class="asideBoxTab">
-                                <!-- 선택된 메뉴에는 choice라는 클래스명 사용 -->
-                                <li id="realTimeRankChoiceTabFavorite" class="choice">
-                                    <a id="realTimeRankChoiceTabFavoriteClick" href="#">
-                                        <img src="#" title="공지사항" alt="공지사항" width="31" height="12">
-                                    </a>
-                                </li>
+                        <!-- 공지사항 -->
+                        
+                        <ul class="asideBoxTab">
+                            <h4 class="asideBoxTitle">
+                                <img src="https://ssl.pstatic.net/static/comic/images/migration/common/subtlt_r_notice.gif" title="공지사항" alt="공지사항" width="43" height="12">
+                            </h4>
+                            <a onclick="nclk_v2(event,'sna.more')" href="/notice/list" class="asideBoxMore">
+                                <span class="blind">공지사항</span> 더보기
+                            </a>
 
-                            </ul>
-                            <ul class="inform">
-                                <li>2022 네이버웹툰 최강자전 개최 안내</li>
-                                <li>2022 지상최대공모전 웹툰 부문 상세 공지</li>
-                                <li>2022 모든웹툰 공모전 개최 안내</li>
-                                <li>웹소설원작 웹툰을 위한 각색/작화 작가...</li>
-                                <li>[출시] 새로운 웹툰 라인업! &lt;매일+&gt; </li>
-                                <li>네이버웹툰 연재 작가를 모십니다</li>
-                                <li>#내돈내툰, 우리가 웹툰을 즐기는 방법</li>
-                                <li>2022년 6월 유료화 전환 안내 작품 안내</li>
+                        </ul>
+                        <ul class="inform">
+                            <li>2022 네이버웹툰 최강자전 개최 안내</li>
+                            <li>2022 지상최대공모전 웹툰 부문 상세 공지</li>
+                            <li>2022 모든웹툰 공모전 개최 안내</li>
+                            <li>웹소설원작 웹툰을 위한 각색/작화 작가...</li>
+                            <li>[출시] 새로운 웹툰 라인업! &lt;매일+&gt; </li>
+                            <li>네이버웹툰 연재 작가를 모십니다</li>
+                            <li>#내돈내툰, 우리가 웹툰을 즐기는 방법</li>
+                            <li>2022년 6월 유료화 전환 안내 작품 안내</li>
 
-                            </ul>
-                        </div>
+                        </ul>
+                        
 
                     </div>
 
